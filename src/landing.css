@@ -1,0 +1,10 @@
+.welcome {
+  font-family: 'Josefin Sans', cursive;
+  font-size: 40px;
+}
+
+.landing-wrapper {
+  height: 100vh;
+  color: aliceblue;
+  background-color: black;
+}
