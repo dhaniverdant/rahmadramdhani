@@ -1,6 +1,39 @@
 .inv-landing {
   height: 100vh;
-  /* background-color: black; */
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-image:  url('./icons/island.JPG'); */
+}
+
+.intro-title {
+  font-size: 20px;
+}
+
+.names {
+  font-size: 30px;
+  /* margin-bottom: 100px; */
+}
+
+.to-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 130px;
+}
+
+.attendant-name {
+  font-size: 20px;
+}
+
+.down-arrow {
+  width: 28px;
+  position: absolute;
+  bottom: 50px;
 }
 
 .inv-second {
