@@ -1,8 +1,11 @@
 import React from 'react';
+import '../inv.css';
 
 const Inv = () => {
   return (
-    <div>Inv</div>
+    <div className='inv-landing'>
+      <div>landing page</div>
+    </div>
   );
 }
 
