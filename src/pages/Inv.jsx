@@ -3,8 +3,12 @@ import '../inv.css';
 
 const Inv = () => {
   return (
-    <div className='inv-landing'>
-      <div>landing page</div>
+    <div>
+      <div id='landing' className='inv-landing'>
+        landing page
+        <a href="#second">Go To Middle</a>  
+      </div>
+      <div id='second' className='inv-second'>page 2</div>
     </div>
   );
 }

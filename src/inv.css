@@ -1,4 +1,9 @@
 .inv-landing {
   height: 100vh;
-  background-color: black;
+  /* background-color: black; */
+}
+
+.inv-second {
+  height: 100vh;
+  background-color: aquamarine;
 }
