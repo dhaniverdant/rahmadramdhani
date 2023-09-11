@@ -9,7 +9,9 @@ const Landing = () => {
         <div className='welcome'>Hi There!</div>
         <div>My name is Rahmad Ramdhani. I am a Front-End Developer based in Sumbawa, Indonesia.</div>
         <div className="linkedin-icon-wrapper">
-          <img src={linkedin} alt='linkedin' />
+          <a href="https://www.linkedin.com/in/rahmad-ramdhani-a08102131/">
+            <img src={linkedin} alt='linkedin' />
+          </a>
         </div>
       </div>
     </div>
